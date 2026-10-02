@@ -1,5 +1,5 @@
 ---
-title: 'Does Planck actually \“see\” the Bunch-Davies state?'
+title: 'Does Planck actually “see” the Bunch-Davies state?'
 collection: publications
 category: manuscripts
 permalink: https://staciemoltner.github.io/publication/Baunach_2021_J._Cosmol._Astropart._Phys._2021_050.pdf
