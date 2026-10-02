@@ -1,10 +1,10 @@
 ---
 title: "The University of Texas at Austin"
 collection: teaching
-type: "Undergraduate courses"
+type: "Teaching Assistant"
 venue: "Department of Physics"
 location: "Austin, TX, USA"
-date: 2018 - 2024
+date:
 ---
 
 <table border="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
