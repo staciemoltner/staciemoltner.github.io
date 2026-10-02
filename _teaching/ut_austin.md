@@ -2,7 +2,6 @@
 title: "The University of Texas at Austin"
 collection: teaching
 type: "Undergraduate courses"
-permalink: /teaching/ut_austin
 venue: "Department of Physics"
 location: "Austin, TX, USA"
 date: 2018 - 2024
