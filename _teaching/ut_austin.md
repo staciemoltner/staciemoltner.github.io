@@ -4,7 +4,6 @@ collection: teaching
 type: "Teaching Assistant"
 venue: "Department of Physics"
 location: "Austin, TX, USA"
-date:
 ---
 
 <table border="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
