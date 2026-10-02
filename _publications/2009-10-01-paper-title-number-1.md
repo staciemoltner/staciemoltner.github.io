@@ -1,5 +1,5 @@
 ---
-title: "Does Planck actually \“see\” the Bunch-Davies state?"
+title: "Does Planck actually \\“see\\” the Bunch-Davies state?"
 collection: publications
 category: manuscripts
 permalink: https://staciemoltner.github.io/publication/2009-10-01-paper-title-number-1
