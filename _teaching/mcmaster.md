@@ -1,10 +1,10 @@
 ---
 title: "McMaster University"
 collection: teaching
-type: "Undergraduate courses"
+type: "Teaching Assistant"
 venue: "Department of Physics and Astronomy"
 location: "Hamilton, ON, Canada"
-date: 2015 - 2017
+date:
 ---
 
 <table border="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
