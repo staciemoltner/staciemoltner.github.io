@@ -7,6 +7,7 @@ excerpt: '**Abstract:** We consider the nuclear absorption of dark matter as an 
 date: 2025-02-11
 venue: 'Journal of Cosmology and Astroparticle Physics (JCAP)'
 paperurl: '[https://academicpages.github.io/files/Boddy_2025_J._Cosmol._Astropart._Phys._2025_017.pdf](https://doi.org/10.1088/1475-7516/2025/02/017)'
+bibtexurl: https://academicpages.github.io/files/Boddy_2025.bib
 citation: 'Kimberly K. Boddy, Bhaskar Dutta, Addy J. Evans, Wei-Chih Huang, Stacie Moltner, and Louis E. Strigari. Indirect detection of dark matter absorption in the Galactic Center. Journal of Cosmology and Astroparticle Physics, volume 2025, page 017. IOP Publishing, Feb 2025.'
 ---
 
