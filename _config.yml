@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Stacie Moltner, PhD"
+title                    : "stacie moltner, PhD"
 title_separator          : "-"
-name                     : &name "Stacie Moltner"
-description              : &description "Stacie's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "stacie moltner"
+description              : &description "stacie's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://staciemoltner.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,11 +24,11 @@ repository               : "staciemoltner/staciemoltner.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Stacie Moltner"
+  name             : "stacie moltner"
   pronouns         : # example: "she/her"  
-  bio              : "Physics PhD in theoretical cosmology and astrophysics"
+  bio              : "physics PhD in theoretical cosmology and astrophysics"
   location         : "Earth"
-  employer         : # "Red Brick University"
+  employer         : "The University of Texas at Austin"
   uri              : # URL
   email            : "staciemoltner@gmail.com" 
 
