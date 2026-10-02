@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "stacie moltner, PhD"
 title_separator          : "-"
 name                     : &name "stacie moltner"
@@ -87,7 +87,7 @@ publication_category:
   # books:
     # title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'journal articles'    
   # conferences:
     # title: 'Conference Papers'
 
