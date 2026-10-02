@@ -4,7 +4,6 @@ collection: teaching
 type: "Teaching Assistant"
 venue: "Department of Physics and Astronomy"
 location: "Hamilton, ON, Canada"
-date:
 ---
 
 <table border="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
