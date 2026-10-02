@@ -1,7 +1,7 @@
 ---
 title: "McMaster University"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching/mcmaster
 venue: "Department of Physics and Astronomy"
 location: "Hamilton, ON, Canada"
