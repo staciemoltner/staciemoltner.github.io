@@ -5,6 +5,7 @@ type: "Undergraduate courses"
 permalink: /teaching/mcmaster
 venue: "Department of Physics and Astronomy"
 location: "Hamilton, ON, Canada"
+date: 2015 - 2017
 ---
 
 <table border="0">
