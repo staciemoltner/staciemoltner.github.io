@@ -5,6 +5,7 @@ type: "Undergraduate courses"
 permalink: /teaching/ut_austin
 venue: "Department of Physics"
 location: "Austin, TX, USA"
+date: 2018 - 2024
 ---
 
 <table border="0" style="border-collapse: collapse; width: 100%;">
