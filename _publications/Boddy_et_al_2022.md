@@ -7,6 +7,7 @@ excerpt: '**Abstract:** We study dark matter-helium scattering in the early Univ
 Furthermore, we place the first CMB constraints on dark matter that scatters dominantly/exclusively with helium in the early Universe.'
 date: 2022-08-04
 venue: 'Physical Review D'
+bibtexurl: 'https://academicpages.github.io/files/PhysRevD.106.043510.bib'
 paperurl: '[https://academicpages.github.io/files/PhysRevD.106.043510.pdf](https://doi.org/10.1103/PhysRevD.106.043510)'
 citation: 'Kimberly K. Boddy, Gordan Krnjaic, and Stacie Moltner. Investigation of CMB constraints for dark matter-helium scattering. Phys. Rev. D, volume 106, page 043510. American Physical Society, Aug 2022.'
 ---
