@@ -7,7 +7,17 @@ venue: "Department of Physics and Astronomy"
 location: "Hamilton, ON, Canada"
 ---
 
-| ---: | :--- |
-| Winter 2017 | **PHYSICS 1E03 Electricity and Magnetism** |
-| Winter 2016 | **PHYSICS 1E03 Electricity and Magnetism** |
-| Fall 2015 | **PHYSICS 1D03 Introductory Mechanics** |
+<table border="0">
+  <tr>
+    <td align="right" style="padding-right: 15px;">Winter 2017</td>
+    <td align="left"><b>PHYSICS 1E03 Electricity and Magnetism</b></td>
+  </tr>
+  <tr>
+    <td align="right" style="padding-right: 15px;">Winter 2016</td>
+    <td align="left"><b>PHYSICS 1E03 Electricity and Magnetism</b></td>
+  </tr>
+  <tr>
+    <td align="right" style="padding-right: 15px;">Fall 2015</td>
+    <td align="left"><b>PHYSICS 1D03 Introductory Mechanics</b></td>
+  </tr>
+</table>
