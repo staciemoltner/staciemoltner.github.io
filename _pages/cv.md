@@ -48,13 +48,13 @@ Summer 2015: **Research Assistant**\
 
 # Publications
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single.html %}
   {% endfor %}</ul>
 
   
 # Talks
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+    {% include archive-single-talk.html  %}
   {% endfor %}</ul>
 
 
