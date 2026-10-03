@@ -53,7 +53,7 @@ redirect_from:
     <td align="left" style="border: none; padding: 4px 0;">
       <b>Research Assistant</b><br />
       <i>Department of Physics and Astronomy, McMaster University</i><br />
-      Supervisors: <a href="https://physics.mcmaster.ca/~vandijk/">Dr. Wytse van Dijk</a> and <a href="https://news.mcmaster.ca/donald-sprung-remembered-as-an-extraordinary-physicist-teacher-mentor/">Dr. Donald W.L. Sprung</a>
+      Supervisors: <a href="Dr. Donald W.L. Sprung">Dr. Wytse van Dijk</a> and <a href="https://physics.mcmaster.ca/dwsprung/">Dr. Donald W.L. Sprung</a>
     </td>
   </tr>
   <tr style="border: none;">
@@ -69,7 +69,7 @@ redirect_from:
     <td align="left" style="border: none; padding: 4px 0;">
       <b>Research Assistant</b><br />
       <i>Department of Physics and Astronomy, McMaster University</i><br />
-      Supervisors: Dr. Reza Nejat and Dr. Hugh Couchman
+      Supervisors: <a href="https://www.eng.mcmaster.ca/faculty/dr-reza-nejat/">Dr. Reza Nejat</a> and <a href="https://physics.mcmaster.ca/~couchman/">Dr. Hugh Couchman</a>
     </td>
   </tr>
 </table>
