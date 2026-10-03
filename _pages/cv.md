@@ -11,31 +11,33 @@ redirect_from:
 
 Education
 ======
-PhD Physics, The University of Texas at Austin, 2024\
+2024: **PhD Physics**\
+_The University of Texas at Austin_\
   Supervisor: Dr. Kimberly K. Boddy\
-  Dissertation: Constraining new physics with cosmological & astrophysical data
+  Dissertation: _Constraining new physics with cosmological & astrophysical data_
   
-BEng Engineering Physics, McMaster University, 2018
+2018: **BEng Engineering Physics**
+  McMaster University
 
 Research & Professional Experience
 ======
-2025 - present: Data Scientist / Researcher\
-  Wildfire Operations Branch, Forestry and Parks, Government of Alberta
+2025 - present: **Data Scientist / Researcher**\
+  _Wildfire Operations Branch, Forestry and Parks, Government of Alberta_
 
-2018 - 2024: Graduate Researcher\
-  Department of Physics, The University of Texas at Austin\
+2018 - 2024: **Graduate Researcher**\
+  D_epartment of Physics, The University of Texas at Austin_\
   Supervisor: Dr. Kimberly K. Boddy
 
-Summer 2017: Research Assistant\
-  Department of Physics and Astronomy, McMaster University\
+Summer 2017: **Research Assistant**\
+  _Department of Physics and Astronomy, McMaster University_\
   Supervisors: Dr. Wytse van Dijk and Dr. Donald W.L. Sprung
 
-Summer 2016: Research Assistant\
-  Department of Engineering Physics, McMaster University\
+Summer 2016: **Research Assistant**\
+  _Department of Engineering Physics, McMaster University_\
   Supervisor: Dr. Andy Knights
 
-Summer 2015: Research Assistant\
-  Department of Physics and Astronomy, McMaster University\
+Summer 2015: **Research Assistant**\
+  _Department of Physics and Astronomy, McMaster University_\
   Supervisors: Dr. Reza Nejat and Dr. Hugh Couchman
   
 Technical & Research Skills
@@ -58,8 +60,8 @@ Talks
 
 Service & Leadership
 ======
-2019 - 2020: Graduate Student Representative\
-  Graduate Student Assembly, The University of Texas at Austin
+2019 - 2020: **Graduate Student Representative**\
+  _Graduate Student Assembly, The University of Texas at Austin_
 
 Teaching
 ======
