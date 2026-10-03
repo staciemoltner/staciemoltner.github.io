@@ -53,7 +53,7 @@ redirect_from:
     <td align="left" style="border: none; padding: 4px 0;">
       <b>Research Assistant</b><br />
       <i>Department of Physics and Astronomy, McMaster University</i><br />
-      Supervisors: <a href="https://physics.mcmaster.ca/~vandijk/">Dr. Wytse van Dijk</a> and <a href="https://news.mcmaster.ca/donald-sprung-remembered-as-an-extraordinary-physicist-teacher-mentor/">Dr. Donald W.L. Sprung<\a>
+      Supervisors: <a href="https://physics.mcmaster.ca/~vandijk/">Dr. Wytse van Dijk</a> and <a href="https://news.mcmaster.ca/donald-sprung-remembered-as-an-extraordinary-physicist-teacher-mentor/">Dr. Donald W.L. Sprung</a>
     </td>
   </tr>
   <tr style="border: none;">
