@@ -12,7 +12,7 @@ redirect_from:
 # Education
 2024: **PhD Physics**\
 _The University of Texas at Austin_\
-  Supervisor: [https://physics.utexas.edu/directory/kimberly-boddy](Dr. Kimberly K. Boddy)\
+  Supervisor: [Dr. Kimberly K. Boddy](https://physics.utexas.edu/directory/kimberly-boddy)\
   Dissertation: _Constraining new physics with cosmological & astrophysical data_
   
 2018: **BEng Engineering Physics**
@@ -54,7 +54,7 @@ Summer 2015: **Research Assistant**\
   
 # Talks
   <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk.html  %}
+    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
 
