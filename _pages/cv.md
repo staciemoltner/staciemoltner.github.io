@@ -96,8 +96,15 @@ redirect_from:
 
 
 # Service & Leadership
-2019 - 2020: **Graduate Student Representative**\
-  _Graduate Student Assembly, The University of Texas at Austin_
+<table border="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2019 - 2020</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Graduate Student Representative</b><br />
+      <i>Graduate Student Assembly, The University of Texas at Austin</i>
+    </td>
+  </tr>
+</table>
 
 
 # Teaching
