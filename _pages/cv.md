@@ -10,34 +10,71 @@ redirect_from:
 {% include base_path %}
 
 # Education
-2024: **PhD Physics**\
-_The University of Texas at Austin_\
-  Supervisor: [Dr. Kimberly K. Boddy](https://physics.utexas.edu/directory/kimberly-boddy)\
-  Dissertation: _Constraining new physics with cosmological & astrophysical data_
-  
-2018: **BEng Engineering Physics**
-  McMaster University
+<table border="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2024</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>PhD Physics</b><br />
+      <i>The University of Texas at Austin</i><br />
+      Supervisor: <a href="https://utexas.edu">Dr. Kimberly K. Boddy</a><br />
+      Dissertation: <i>Constraining new physics with cosmological & astrophysical data</i>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top;">2018</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>BEng Engineering Physics</b><br />
+      <i>McMaster University</i>
+    </td>
+  </tr>
+</table>
 
+<br />
 
 # Research & Professional Experience
-2025 - present: **Data Scientist / Researcher**\
-  _Wildfire Operations Branch, Forestry and Parks, Government of Alberta_
+<table border="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2025 - present</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Data Scientist / Researcher</b><br />
+      <i>Wildfire Operations Branch, Forestry and Parks, Government of Alberta</i>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top;">2018 - 2024</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Graduate Researcher</b><br />
+      <i>Department of Physics, The University of Texas at Austin</i><br />
+      Supervisor: Dr. Kimberly K. Boddy
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top;">Summer 2017</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Research Assistant</b><br />
+      <i>Department of Physics and Astronomy, McMaster University</i><br />
+      Supervisors: Dr. Wytse van Dijk and Dr. Donald W.L. Sprung
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top;">Summer 2016</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Research Assistant</b><br />
+      <i>Department of Engineering Physics, McMaster University</i><br />
+      Supervisor: Dr. Andy Knights
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top;">Summer 2015</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Research Assistant</b><br />
+      <i>Department of Physics and Astronomy, McMaster University</i><br />
+      Supervisors: Dr. Reza Nejat and Dr. Hugh Couchman
+    </td>
+  </tr>
+</table>
 
-2018 - 2024: **Graduate Researcher**\
-  D_epartment of Physics, The University of Texas at Austin_\
-  Supervisor: Dr. Kimberly K. Boddy
-
-Summer 2017: **Research Assistant**\
-  _Department of Physics and Astronomy, McMaster University_\
-  Supervisors: Dr. Wytse van Dijk and Dr. Donald W.L. Sprung
-
-Summer 2016: **Research Assistant**\
-  _Department of Engineering Physics, McMaster University_\
-  Supervisor: Dr. Andy Knights
-
-Summer 2015: **Research Assistant**\
-  _Department of Physics and Astronomy, McMaster University_\
-  Supervisors: Dr. Reza Nejat and Dr. Hugh Couchman
+<br />
 
   
 # Technical & Research Skills
