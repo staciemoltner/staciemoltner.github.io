@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+# Education
 2024: **PhD Physics**\
 _The University of Texas at Austin_\
   Supervisor: [https://physics.utexas.edu/directory/kimberly-boddy](Dr. Kimberly K. Boddy)\
@@ -20,8 +19,7 @@ _The University of Texas at Austin_\
   McMaster University
 
 
-Research & Professional Experience
-======
+# Research & Professional Experience
 2025 - present: **Data Scientist / Researcher**\
   _Wildfire Operations Branch, Forestry and Parks, Government of Alberta_
 
@@ -42,35 +40,30 @@ Summer 2015: **Research Assistant**\
   Supervisors: Dr. Reza Nejat and Dr. Hugh Couchman
 
   
-Technical & Research Skills
-======
+# Technical & Research Skills
 * Python, C, C++, R, Bash, Fortran
 * Git/GitHub, Conda, Slurm, Mathematica, MATLAB, Maple, Cosmic Linear Anisotropy Solving System (CLASS), Cobaya
 * SQL, PostgreSQL
 
 
-Publications
-======
+# Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
   
-Talks
-======
+# Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk.html  %}
   {% endfor %}</ul>
 
 
-Service & Leadership
-======
+# Service & Leadership
 2019 - 2020: **Graduate Student Representative**\
   _Graduate Student Assembly, The University of Texas at Austin_
 
 
-Teaching
-======
+# Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single.html %}
   {% endfor %}</ul>
