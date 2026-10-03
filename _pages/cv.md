@@ -86,7 +86,7 @@ redirect_from:
 
 
 # Publications
-  <ul>{% for post in site.publications reversed %}
+  <ul style="list-style-type: none;">{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
@@ -94,7 +94,7 @@ redirect_from:
 
   
 # Talks
-  <ul>{% for post in site.talks reversed %}
+  <ul style="list-style-type: none;">{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
@@ -116,6 +116,6 @@ redirect_from:
 
 
 # Teaching
-<ul>{% for post in site.teaching reversed %}
+<ul style="list-style-type: none;">{% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}</ul>
