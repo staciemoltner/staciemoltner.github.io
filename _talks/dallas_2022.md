@@ -4,7 +4,7 @@ collection: talks
 type: "Conference"
 venue: "Theoretical Astroparticle and Cosmology Symposium"
 date: 2022-10-01
-location: "Dallas, TX"
+location: "Dallas, TX, USA"
 ---
 
 (invited speaker)
