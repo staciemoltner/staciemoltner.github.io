@@ -13,7 +13,7 @@ Education
 ======
 2024: **PhD Physics**\
 _The University of Texas at Austin_\
-  Supervisor: href="[https://kboddy.github.io](https://kboddy.github.io)](Dr. Kimberly K. Boddy)"\
+  Supervisor: [https://kboddy.github.io](Dr. Kimberly K. Boddy)\
   Dissertation: _Constraining new physics with cosmological & astrophysical data_
   
 2018: **BEng Engineering Physics**
