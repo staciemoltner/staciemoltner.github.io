@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,26 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+PhD Physics, The University of Texas at Austin, 2024
+  Supervisor: Dr. Kimberly K. Boddy
+  Dissertation: Constraining new physics with cosmological & astrophysical data
+  
+BEng Engineering Physics, McMaster University, 2018
 
-Work experience
+Research & Professional Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+2025 - present: Data Scientist / Researcher
+  Wildfire Operations Branch, Forestry and Parks, Government of Alberta
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+2018 - 2024: Graduate Researcher
+  Department of Physics, The University of Texas at Austin
+  Supervisor: Dr. Kimberly K. Boddy
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Summer 2017: Research Assistant
+  Department of Physics and Astronomy, McMaster University
+  Supervisors: Dr. Wytse van Dijk and Dr. Donald W.L. Sprung
+
+Summer 2016: Research Assistant
+  Department of Engineering Physics, McMaster University
+  Supervisor: Dr. Andy Knights
+
+Summer 2015: Research Assistant
+  Department of Physics and Astronomy, McMaster University
+  Supervisors: Dr. Reza Nejat and Dr. Hugh Couchman
   
 Skills
 ======
@@ -52,13 +58,14 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
+Service and leadership
+======
+2019 - 2020: Graduate Student Representative
+  Graduate Student Assembly, The University of Texas at Austin
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
