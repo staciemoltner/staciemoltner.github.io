@@ -38,14 +38,11 @@ Summer 2015: Research Assistant\
   Department of Physics and Astronomy, McMaster University\
   Supervisors: Dr. Reza Nejat and Dr. Hugh Couchman
   
-Skills
+Technical & Research Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, C, C++, R, Bash, Fortran
+* Git/GitHub, Conda, Slurm, Mathematica, MATLAB, Maple, Cosmic Linear Anisotropy Solving System (CLASS), Cobaya
+* SQL, PostgreSQL
 
 Publications
 ======
@@ -59,7 +56,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-Service and leadership
+Service & Leadership
 ======
 2019 - 2020: Graduate Student Representative\
   Graduate Student Assembly, The University of Texas at Austin
