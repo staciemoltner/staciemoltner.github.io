@@ -1,6 +1,7 @@
 ---
 title: "Investigation of CMB constraints for dark matter-helium scattering"
 collection: publications
+category: manuscripts
 permalink: /publication/PhysRevD.106.043510.pdf
 excerpt: '**Abstract:** We study dark matter-helium scattering in the early Universe and its impact on constraints from cosmic microwave background (CMB) anisotropy measurements. We describe possible theoretical frameworks for dark matter-nucleon interactions via a scalar, pseudoscalar, or vector mediator; such interactions give rise to hydrogen and helium scattering, with cross sections that have a power-law dependence on relative velocity. Within these frameworks, we consider three scenarios: dark matter coupling to only neutrons, to only protons, and to neutrons and protons with equal strength. For these various cases, we use Planck 2018 temperature, polarization, and lensing anisotropy data to place constraints on dark matter scattering with hydrogen and/or helium for dark matter masses between 10 keV and 1 TeV. For any model that permits both helium and hydrogen scattering with a non-negative power-law velocity dependence, we find that helium scattering dominates the constraint for dark matter masses well above the proton mass.
 Furthermore, we place the first CMB constraints on dark matter that scatters dominantly/exclusively with helium in the early Universe.'
