@@ -82,17 +82,23 @@ redirect_from:
 * Git/GitHub, Conda, Slurm, Mathematica, MATLAB, Maple, Cosmic Linear Anisotropy Solving System (CLASS), Cobaya
 * SQL, PostgreSQL
 
+<br />
+
 
 # Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+<br />
+
   
 # Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
+<br />
 
 
 # Service & Leadership
@@ -105,6 +111,8 @@ redirect_from:
     </td>
   </tr>
 </table>
+
+<br />
 
 
 # Teaching
