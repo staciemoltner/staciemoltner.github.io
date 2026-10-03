@@ -116,6 +116,6 @@ redirect_from:
 
 
 # Teaching
-<ul style="list-style-type: none;">{% for post in site.teaching reversed %}
+<ul style="list-style-type: none; padding-left: 0; margin-left: 0;">{% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}</ul>
