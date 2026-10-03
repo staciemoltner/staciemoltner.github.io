@@ -37,3 +37,10 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+.archive__item:hover .archive__item-title,
+.archive__item:hover .archive__item-title b,
+.archive__item-title b:hover {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
