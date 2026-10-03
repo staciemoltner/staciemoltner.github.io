@@ -16,7 +16,7 @@ redirect_from:
     <td align="left" style="border: none; padding: 4px 0;">
       <b>PhD Physics</b><br />
       <i>The University of Texas at Austin</i><br />
-      Supervisor: <a href="https://utexas.edu">Dr. Kimberly K. Boddy</a><br />
+      Supervisor: <a href="https://physics.utexas.edu/directory/kimberly-boddy">Dr. Kimberly K. Boddy</a><br />
       Dissertation: <i>Constraining new physics with cosmological & astrophysical data</i>
     </td>
   </tr>
@@ -45,7 +45,7 @@ redirect_from:
     <td align="left" style="border: none; padding: 4px 0;">
       <b>Graduate Researcher</b><br />
       <i>Department of Physics, The University of Texas at Austin</i><br />
-      Supervisor: Dr. Kimberly K. Boddy
+      Supervisor: <a href="https://physics.utexas.edu/directory/kimberly-boddy">Dr. Kimberly K. Boddy</a>
     </td>
   </tr>
   <tr style="border: none;">
@@ -53,7 +53,7 @@ redirect_from:
     <td align="left" style="border: none; padding: 4px 0;">
       <b>Research Assistant</b><br />
       <i>Department of Physics and Astronomy, McMaster University</i><br />
-      Supervisors: Dr. Wytse van Dijk and Dr. Donald W.L. Sprung
+      Supervisors: <a href="https://physics.mcmaster.ca/~vandijk/">Dr. Wytse van Dijk</a> and <a href="https://news.mcmaster.ca/donald-sprung-remembered-as-an-extraordinary-physicist-teacher-mentor/">Dr. Donald W.L. Sprung<\a>
     </td>
   </tr>
   <tr style="border: none;">
@@ -61,7 +61,7 @@ redirect_from:
     <td align="left" style="border: none; padding: 4px 0;">
       <b>Research Assistant</b><br />
       <i>Department of Engineering Physics, McMaster University</i><br />
-      Supervisor: Dr. Andy Knights
+      Supervisor: <a href="https://www.eng.mcmaster.ca/engphys/faculty/dr-andy-knights/">Dr. Andy Knights</a>
     </td>
   </tr>
   <tr style="border: none;">
