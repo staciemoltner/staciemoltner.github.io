@@ -19,6 +19,7 @@ _The University of Texas at Austin_\
 2018: **BEng Engineering Physics**
   McMaster University
 
+
 Research & Professional Experience
 ======
 2025 - present: **Data Scientist / Researcher**\
@@ -39,6 +40,7 @@ Summer 2016: **Research Assistant**\
 Summer 2015: **Research Assistant**\
   _Department of Physics and Astronomy, McMaster University_\
   Supervisors: Dr. Reza Nejat and Dr. Hugh Couchman
+
   
 Technical & Research Skills
 ======
@@ -46,11 +48,13 @@ Technical & Research Skills
 * Git/GitHub, Conda, Slurm, Mathematica, MATLAB, Maple, Cosmic Linear Anisotropy Solving System (CLASS), Cobaya
 * SQL, PostgreSQL
 
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
   
 Talks
 ======
@@ -58,10 +62,12 @@ Talks
     {% include archive-single-talk.html  %}
   {% endfor %}</ul>
 
+
 Service & Leadership
 ======
 2019 - 2020: **Graduate Student Representative**\
   _Graduate Student Assembly, The University of Texas at Austin_
+
 
 Teaching
 ======
