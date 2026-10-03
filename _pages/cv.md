@@ -116,6 +116,6 @@ redirect_from:
 
 
 # Teaching
-{% for post in site.talks reversed %}
+<ul>{% for post in site.talks reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %}</ul>
