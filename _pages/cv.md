@@ -101,6 +101,49 @@ redirect_from:
 <br />
 
 
+# Honours & Awards
+<table border="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2023</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Lawrence C. Biedenharn Jr. Endowment for Excellence</b>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2017</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Undergraduate Student Research Award</b>, _Natural Sciences and Engineering Research Council of Canada_
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2016 - 2017</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Patrick Tan Academic Grant</b>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2016 - 2017</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Dr. Harry Lyman Hooker Scholarship</b>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2016 - 2017</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Provost's Honour Roll Medal</b>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2016</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Undergraduate Student Research Award</b>, _Natural Sciences and Engineering Research Council of Canada_
+    </td>
+  </tr>
+</table>
+
+<br />
+
+
 # Service & Leadership
 <table border="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
   <tr style="border: none;">
