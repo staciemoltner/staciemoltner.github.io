@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-...but please check out the tabs above!
+...but check out the tabs above!
