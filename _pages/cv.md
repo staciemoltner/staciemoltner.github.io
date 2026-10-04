@@ -112,7 +112,7 @@ redirect_from:
   <tr style="border: none;">
     <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2017</td>
     <td align="left" style="border: none; padding: 4px 0;">
-      <b>Undergraduate Student Research Award</b>, _Natural Sciences and Engineering Research Council of Canada_
+      <b>Undergraduate Student Research Award</b>, <i>Natural Sciences and Engineering Research Council of Canada</i>
     </td>
   </tr>
   <tr style="border: none;">
@@ -136,7 +136,7 @@ redirect_from:
   <tr style="border: none;">
     <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2016</td>
     <td align="left" style="border: none; padding: 4px 0;">
-      <b>Undergraduate Student Research Award</b>, _Natural Sciences and Engineering Research Council of Canada_
+      <b>Undergraduate Student Research Award</b>, <i>Natural Sciences and Engineering Research Council of Canada</i>
     </td>
   </tr>
 </table>
