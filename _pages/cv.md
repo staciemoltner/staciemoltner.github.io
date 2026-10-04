@@ -78,8 +78,11 @@ redirect_from:
 
   
 # Technical & Research Skills
-* Python, C, C++, R, Bash, HTML, Fortran
-* Git/GitHub, Conda, Slurm, Mathematica, MATLAB, Maple, Cosmic Linear Anisotropy Solving System (CLASS), Cobaya
+* Python, C, C++, R, Bash, Fortran
+* NumPy, SciPy, pandas, geopandas, Matplotlib, Astropy, scikit-learn, Mathematica, MATLAB, Maple
+* Git/GitHub, Conda
+* High-performance computing clusters, parallel computing, Slurm
+* Cosmic Linear Anisotropy Solving System (CLASS), Cobaya
 * SQL, PostgreSQL
 
 <br />
