@@ -170,6 +170,8 @@
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
+  white-space: normal;
+  word-break: break-word;
 
   @include breakpoint($large) {
     display: block;
