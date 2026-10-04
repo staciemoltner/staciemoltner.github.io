@@ -96,7 +96,7 @@ redirect_from:
 <br />
 
   
-# Talks
+# Seminars & Conference Presentations
   <ul style="list-style-type: none;">{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
