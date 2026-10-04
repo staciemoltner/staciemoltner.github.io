@@ -1,10 +1,11 @@
 ---
 permalink: /
-title: "under construction..."
+title: "about"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-...but check out the tabs above!
+# research interests
+theoretical and observational cosmology; dark energy; cosmic inflation; applications of artificial intelligence and machine learning in physics and astronomy research
