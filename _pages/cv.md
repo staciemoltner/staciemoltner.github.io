@@ -77,7 +77,7 @@ redirect_from:
 <br />
 
   
-# Technical & Research Skills
+# Technical Skills
 * Python, C, C++, R, Bash, Fortran
 * NumPy, SciPy, pandas, Matplotlib, Astropy, scikit-learn, GeoPandas, Mathematica, MATLAB, Maple
 * <a href="http://class-code.net">Cosmic Linear Anisotropy Solving System (CLASS)</a>, <a href="https://cobaya.readthedocs.io">cobaya</a>
