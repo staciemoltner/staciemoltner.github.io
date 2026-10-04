@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publications/baunach-2021/
 doi: https://doi.org/10.1088/1475-7516/2021/07/050
-arXiv: https://arxiv.org/abs/2104.13410
+arxiv: https://arxiv.org/abs/2104.13410
 excerpt: '**Abstract:** To what extent can the Planck satellite observations be interpreted as confirmation of the quantum part of the inflationary paradigm? Has it “seen” the Bunch-Davies state? We compare and contrast the Bunch-Davies interpretation with one using a so-called entangled state in which the fluctuations of a spectator scalar field are entangled with those of the metric perturbations $$\zeta$$. We first show how a spectator scalar field $$\Sigma$$, with an expectation value $$\sigma(t)$$ that evolves in time, will generically generate such a state. We then use this state to compute the power spectrum $$P_\zeta(k)$$ and thence the temperature anisotropies $$C_\ell$$ in the Cosmic Microwave Background (CMB). We find interesting diﬀerences from the standard calculations using the Bunch-Davies (BD) state. We argue that existing data may already be used to place interesting bounds on this class of deviations from the BD state and that, for some values of the parameters of the state, the power spectra may be consistent with the Planck satellite data.'
 date: 2021-07-26
 venue: 'Journal of Cosmology and Astroparticle Physics (JCAP)'
