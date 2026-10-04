@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 # research interests
-theoretical and observational cosmology; dark energy; cosmic inflation; beyond $$\Lambda$$CDM; ethical use and applications of artificial intelligence and machine learning in physics and astronomy research
+theoretical and observational cosmology; dark energy; cosmic inflation; beyond $\Lambda$CDM; ethical use and applications of artificial intelligence and machine learning in physics and astronomy research
