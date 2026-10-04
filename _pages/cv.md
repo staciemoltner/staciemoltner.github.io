@@ -79,10 +79,10 @@ redirect_from:
   
 # Technical & Research Skills
 * Python, C, C++, R, Bash, Fortran
-* NumPy, pandas, GeoPandas, Matplotlib, SciPy, Astropy, scikit-learn, Mathematica, MATLAB, Maple
-* Git/GitHub, Conda
-* High-performance computing clusters, parallel computing, Slurm
+* NumPy, SciPy, pandas, Matplotlib, Astropy, scikit-learn, GeoPandas, Mathematica, MATLAB, Maple
 * <a href="http://class-code.net">Cosmic Linear Anisotropy Solving System (CLASS)</a>, <a href="https://cobaya.readthedocs.io">cobaya</a>
+* High-performance computing clusters, parallel computing, Slurm
+* Git/GitHub, Conda
 * SQL, PostgreSQL
 
 <br />
