@@ -50,7 +50,7 @@
           {{ post.date | default: "" | date: "%Y" }}
           {% if post.end_date %}–{{ post.end_date | date: "%Y" }}{% endif %}
         </p>
-        <!-- {% endif %} -->
+        {% endif %}
     
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
