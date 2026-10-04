@@ -69,7 +69,7 @@ redirect_from:
     <td align="left" style="border: none; padding: 4px 0;">
       <b>Research Assistant</b><br />
       <i>Department of Physics and Astronomy, McMaster University</i><br />
-      Supervisors: <a href="https://www.eng.mcmaster.ca/faculty/dr-reza-nejat/">Dr. Reza Nejat</a> and <a href="https://physics.mcmaster.ca/~couchman/">Dr. Hugh Couchman</a>
+      Supervisors: Dr. Reza Nejat and <a href="https://physics.mcmaster.ca/~couchman/">Dr. Hugh Couchman</a>
     </td>
   </tr>
 </table>
