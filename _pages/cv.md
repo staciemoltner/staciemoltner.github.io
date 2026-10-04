@@ -158,6 +158,43 @@ redirect_from:
 <br />
 
 
+# Extracurriculars
+<table border="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2023 - 2024</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Machine Learning in Physics discussion group</b>, <i>Department of Physics, The University of Texas at Austin</i>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2022 - 2024</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Cosmology Journal Club</b>, <i>Texas Center for Cosmology & Astroparticle Physics, The University of Texas at Austin</i>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2018 - 2024</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Gender Minorities in Physics</b>, <i>Department of Physics, The University of Texas at Austin</i>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">Summer 2021</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>2021 CMB-S4 Data Analysis Summer School/b>, <i>(Online), CMB-S4 Collaboration</i>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2018 - 2019</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Holography Journal Club</b>, <i>Weinberg Institute for Theoretical Physics, The University of Texas at Austin</i>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+
 # Teaching
 <ul style="list-style-type: none; padding-left: 0; margin-left: 0;">{% for post in site.teaching reversed %}
   {% include archive-single.html %}
