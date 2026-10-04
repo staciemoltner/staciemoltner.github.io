@@ -181,7 +181,7 @@ redirect_from:
   <tr style="border: none;">
     <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">Summer 2021</td>
     <td align="left" style="border: none; padding: 4px 0;">
-      <b>2021 CMB-S4 Data Analysis Summer School/b>, <i>(Online), CMB-S4 Collaboration</i>
+      <b>2021 CMB-S4 Data Analysis Summer School</b>, <i>(Online), CMB-S4 Collaboration</i>
     </td>
   </tr>
   <tr style="border: none;">
