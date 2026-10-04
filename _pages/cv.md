@@ -167,6 +167,12 @@ redirect_from:
     </td>
   </tr>
   <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2021 - 2024</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Cosmology Journal Club</b>, <i>Texas Center for Cosmology & Astroparticle Physics, The University of Texas at Austin</i>
+    </td>
+  </tr>
+  <tr style="border: none;">
     <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2022 - 2024</td>
     <td align="left" style="border: none; padding: 4px 0;">
       <b>Cosmology Journal Club</b>, <i>Texas Center for Cosmology & Astroparticle Physics, The University of Texas at Austin</i>
