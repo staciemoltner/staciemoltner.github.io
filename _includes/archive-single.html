@@ -37,6 +37,13 @@
     <!-- <h2 class="archive__item-title" itemprop="headline">
     <b>{{ title }}</b>
     </h2> -->
+
+    {% if page.doi %}
+    <a href="{{ page.doi }}">DOI</a>
+    {% endif %}
+    {% if page.arXiv %}
+    <a href="{{ page.arXiv }}">arXiv</a>
+    {% endif %}
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
