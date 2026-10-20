@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,196 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Education
+<table border="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2024</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>PhD Physics</b><br />
+      <i>The University of Texas at Austin</i><br />
+      Supervisor: <a href="https://physics.utexas.edu/directory/kimberly-boddy">Dr. Kimberly K. Boddy</a><br />
+      Dissertation: <i>Constraining new physics with cosmological & astrophysical data</i>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top;">2018</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>BEng Engineering Physics</b><br />
+      <i>McMaster University</i>
+    </td>
+  </tr>
+</table>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<br />
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+# Research & Professional Experience
+<table border="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2025 - present</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Data Scientist / Researcher</b><br />
+      <i>Wildfire Operations Branch, Forestry and Parks, Government of Alberta</i>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top;">2018 - 2024</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Graduate Researcher</b><br />
+      <i>Department of Physics, The University of Texas at Austin</i><br />
+      Supervisor: <a href="https://physics.utexas.edu/directory/kimberly-boddy">Dr. Kimberly K. Boddy</a>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top;">Summer 2017</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Research Assistant</b><br />
+      <i>Department of Physics and Astronomy, McMaster University</i><br />
+      Supervisors: <a href="Dr. Donald W.L. Sprung">Dr. Wytse van Dijk</a> and <a href="https://physics.mcmaster.ca/dwsprung/">Dr. Donald W.L. Sprung</a>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top;">Summer 2016</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Research Assistant</b><br />
+      <i>Department of Engineering Physics, McMaster University</i><br />
+      Supervisor: <a href="https://www.eng.mcmaster.ca/engphys/faculty/dr-andy-knights/">Dr. Andy Knights</a>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top;">Summer 2015</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Research Assistant</b><br />
+      <i>Department of Physics and Astronomy, McMaster University</i><br />
+      Supervisors: Dr. Reza Nejat and <a href="https://physics.mcmaster.ca/~couchman/">Dr. Hugh Couchman</a>
+    </td>
+  </tr>
+</table>
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<br />
+
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Technical Skills
+* Python, C, C++, R, Bash, Fortran
+* NumPy, SciPy, pandas, Matplotlib, Astropy, scikit-learn, GeoPandas, Mathematica, MATLAB, Maple
+* <a href="http://class-code.net">Cosmic Linear Anisotropy Solving System (CLASS)</a>, <a href="https://cobaya.readthedocs.io">cobaya</a>
+* High-performance computing clusters, parallel computing, Slurm
+* Git/GitHub, Conda
+* SQL, PostgreSQL
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
+<br />
+
+
+# Publications
+  <ul style="list-style-type: none;">{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+<br />
+
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
+# Seminars & Conference Presentations
+  <ul style="list-style-type: none;">{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+<br />
+
+
+# Honours & Awards
+<table border="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2023</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Lawrence C. Biedenharn Jr. Endowment for Excellence</b>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2017</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Undergraduate Student Research Award</b>, <i>Natural Sciences and Engineering Research Council of Canada</i>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2016 - 2017</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Patrick Tan Academic Grant</b>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2016 - 2017</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Dr. Harry Lyman Hooker Scholarship</b>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2016 - 2017</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Provost's Honour Roll Medal</b>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2016</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Undergraduate Student Research Award</b>, <i>Natural Sciences and Engineering Research Council of Canada</i>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+
+# Service & Leadership
+<table border="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2019 - 2020</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Graduate Student Representative</b><br />
+      <i>Graduate Student Assembly, The University of Texas at Austin</i>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+
+# Extracurriculars
+<table border="0" cellspacing="0" style="border-collapse: collapse; border: none; width: 100%;">
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2023 - 2024</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Machine Learning in Physics discussion group</b>, <i>Department of Physics, The University of Texas at Austin</i>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2021 - 2024</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Cosmology Journal Club</b>, <i>Texas Center for Cosmology & Astroparticle Physics, The University of Texas at Austin</i>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2018 - 2024</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Gender Minorities in Physics</b>, <i>Department of Physics, The University of Texas at Austin</i>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">Summer 2021</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>2021 CMB-S4 Data Analysis Summer School</b>, <i>(Online), CMB-S4 Collaboration</i>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="right" style="border: none; padding: 4px 20px 4px 0px; white-space: nowrap; vertical-align: top; width: 15%;">2018 - 2019</td>
+    <td align="left" style="border: none; padding: 4px 0;">
+      <b>Holography Journal Club</b>, <i>Weinberg Institute for Theoretical Physics, The University of Texas at Austin</i>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+
+# Teaching
+<ul style="list-style-type: none; padding-left: 0; margin-left: 0;">{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}</ul>
